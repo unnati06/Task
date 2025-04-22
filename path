@@ -1,0 +1,6 @@
+frontend
+backend - routes, controllers, middlewares, utils
+routers - routes for login register home.
+controllers - login for login registration home
+utils - db connect and schema
+middlewares - jwt auth middlewares.
